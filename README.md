@@ -71,7 +71,7 @@ This project provides a simple yet powerful tool for converting RGB images to gr
 ## 🎬 Video Demo
 
 <video controls>
-  <source src="https://github.com/pabs-code/Image-to-grayscale-histogram-converter/blob/main/assets/video-sample.webm" type="video/webm">
+  <source src="https://github.com/pabs-code/Image-to-grayscale-histogram-converter/blob/main/assets/video-sample.gif" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
