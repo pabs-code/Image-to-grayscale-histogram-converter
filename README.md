@@ -68,9 +68,12 @@ This project provides a simple yet powerful tool for converting RGB images to gr
 
 ---
 
-## 📸 🎉 Animated GIF Demo
+## 🎬 Video Demo
 
-![Animated GIF](assets/video-sample.gif)
+<video controls>
+  <source src="assets/video-sample.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 
 
 *Example output: Original image (top), grayscale version (middle), and histogram (bottom).*
