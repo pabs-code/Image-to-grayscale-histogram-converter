@@ -11,7 +11,6 @@ A Streamlit application that converts uploaded images to grayscale and generates
   - [🚀 Usage Instructions](#-usage-instructions)
   - [✅ Features](#-features)
   - [📸 🎉 Animated GIF Demo](#--animated-gif-demo)
-  - [🤝 Contributing](#-contributing)
   - [📄 License](#-license)
   - [📌 Notes](#-notes)
 
@@ -70,22 +69,10 @@ This project provides a simple yet powerful tool for converting RGB images to gr
 
 ## 🎬 Video Demo
 
-
-[streamlit-app-video-demo](https://github.com/pabs-code/Image-to-grayscale-histogram-converter/blob/main/assets/streamlit-main-2025-05-09-12-05-92.webm)
+[main-app-video-sample.webm](https://github.com/user-attachments/assets/797bbb7c-7e2b-4954-82fc-1f564114c354)
 
 
 *Example output: Original image (top), grayscale version (middle), and histogram (bottom).*
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! To submit a pull request:
-
-1. Fork the repository.
-2. Create a new branch for your feature/fix.
-3. Test your changes locally.
-4. Push your changes and create a pull request.
 
 ---
 
