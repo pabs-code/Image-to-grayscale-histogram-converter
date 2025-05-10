@@ -3,13 +3,13 @@
 A Streamlit application that converts uploaded images to grayscale and generates pixel intensity histograms. Perfect for quick image processing tasks!
 
 ## 📚 Table of Contents
-  - [About This Project](#about-this-project)
-  - [Installation](#installation)
-  - [Usage Instructions](#usage-instructions)
-  - [Features](#features)
-  - [Video Demo](#video-demo)
-  - [License](#license)
-  - [Notes](#notes)
+- [About This Project](#about-this-project)
+- [Installation](#installation)
+- [Usage Instructions](#usage-instructions)
+- [Features](#features)
+- [Video Demo](#video-demo)
+- [License](#license)
+- [Notes](#notes)
 
 ---
 
@@ -68,7 +68,6 @@ This project provides a simple yet powerful tool for converting RGB images to gr
 
 [main-app-video-sample.webm](https://github.com/user-attachments/assets/797bbb7c-7e2b-4954-82fc-1f564114c354)
 
-
 *Example output: Original image (top), grayscale version (middle), and histogram (bottom).*
 
 ---
@@ -77,7 +76,6 @@ This project provides a simple yet powerful tool for converting RGB images to gr
 
 This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for details.
 
-
 ---
 
 ## 📌 Notes
@@ -85,3 +83,4 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for 
 - **Supported Formats**: JPG, JPEG, PNG (as per the code's file type filter).
 - **Requirements**: Python 3.8+ with `streamlit`, `Pillow`, `matplotlib`, and `numpy` installed.
 - **Example Use Case**: Quick analysis of image brightness or contrast for preprocessing in machine learning pipelines.
+```
