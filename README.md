@@ -13,13 +13,13 @@ A Streamlit application that converts uploaded images to grayscale and generates
 
 ---
 
-## 🧠 About This Project
+## About This Project
 
 This project provides a simple yet powerful tool for converting RGB images to grayscale and visualizing their pixel intensity distributions. Built using **Streamlit**, **Pillow**, and **Matplotlib**, it's ideal for developers looking to quickly add image processing capabilities to their workflows.
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository:**
    ```bash
@@ -38,7 +38,7 @@ This project provides a simple yet powerful tool for converting RGB images to gr
 
 ---
 
-## 🚀 Usage Instructions
+## Usage Instructions
 
 1. Run the Streamlit app:
    ```bash
@@ -54,7 +54,7 @@ This project provides a simple yet powerful tool for converting RGB images to gr
 
 ---
 
-## ✅ Features
+## Features
 
 | Feature                | Description                                                                  |
 | ---------------------- | ---------------------------------------------------------------------------- |
@@ -64,7 +64,7 @@ This project provides a simple yet powerful tool for converting RGB images to gr
 
 ---
 
-## 🎬 Video Demo
+## Video Demo
 
 [main-app-video-sample.webm](https://github.com/user-attachments/assets/797bbb7c-7e2b-4954-82fc-1f564114c354)
 
@@ -72,13 +72,13 @@ This project provides a simple yet powerful tool for converting RGB images to gr
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for details.
 
 ---
 
-## 📌 Notes
+## Notes
 
 - **Supported Formats**: JPG, JPEG, PNG (as per the code's file type filter).
 - **Requirements**: Python 3.8+ with `streamlit`, `Pillow`, `matplotlib`, and `numpy` installed.
