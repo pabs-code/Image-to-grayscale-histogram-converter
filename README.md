@@ -83,4 +83,4 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for 
 - **Supported Formats**: JPG, JPEG, PNG (as per the code's file type filter).
 - **Requirements**: Python 3.8+ with `streamlit`, `Pillow`, `matplotlib`, and `numpy` installed.
 - **Example Use Case**: Quick analysis of image brightness or contrast for preprocessing in machine learning pipelines.
-```
+  
