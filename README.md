@@ -1,4 +1,4 @@
-# Image to Grayscale Histogram Converter 🖼️
+# GrayHist: Image Grayscale Histogram Converter 🖼️
 
 A Streamlit application that converts uploaded images to grayscale and generates pixel intensity histograms. Perfect for quick image processing tasks!
 
@@ -15,7 +15,7 @@ A Streamlit application that converts uploaded images to grayscale and generates
 
 ## About This Project
 
-This project provides a simple yet powerful tool for converting RGB images to grayscale and visualizing their pixel intensity distributions. Built using **Streamlit**, **Pillow**, and **Matplotlib**, it's ideal for developers looking to quickly add image processing capabilities to their workflows.
+GrayHist project provides a simple yet powerful tool for converting RGB images to grayscale and visualizing their pixel intensity distributions. Built using **Streamlit**, **Pillow**, and **Matplotlib**, it's ideal for developers looking to quickly add image processing capabilities to their workflows.
 
 ---
 
