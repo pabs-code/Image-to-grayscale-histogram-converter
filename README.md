@@ -4,13 +4,12 @@ A Streamlit application that converts uploaded images to grayscale and generates
 
 ## 📚 Table of Contents
 
-- [Image to Grayscale Converter 🖼️](#image-to-grayscale-converter-️)
   - [Table of Contents](#-table-of-contents)
   - [About This Project](#-about-this-project)
-  - [Installation](#️-installation)
+  - [Installation](#-installation)
   - [Usage Instructions](#-usage-instructions)
   - [Features](#-features)
-  - [Video Demo](#--video-demo)
+  - [Video Demo](#-video-demo)
   - [License](#-license)
   - [Notes](#-notes)
 
