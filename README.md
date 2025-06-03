@@ -29,7 +29,7 @@ The app is built using **Python**, with dependencies on **Streamlit**, **Pillow 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/image-to-grayscale-converter.git
+   git clone https://github.com/your-username/img-to-grayscale-histogram.git
    ```
 
 2. **Install dependencies:**
@@ -39,7 +39,7 @@ The app is built using **Python**, with dependencies on **Streamlit**, **Pillow 
 
 3. **Navigate to the project directory:**
    ```bash
-   cd image-to-grayscale-converter
+   cd img-to-grayscale-histogram
    ```
 
 ---
