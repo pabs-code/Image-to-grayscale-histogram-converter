@@ -1,4 +1,4 @@
-# GrayHist: Image Grayscale Histogram Converter 🖼️
+# GrayHist: Image Grayscale Converter and Histogram Generator 🖼️
 
 A Streamlit application that converts uploaded images to grayscale and generates pixel intensity histograms. Perfect for quick image processing tasks!
 
