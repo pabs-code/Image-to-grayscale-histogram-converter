@@ -7,7 +7,7 @@ A Streamlit application that converts uploaded images to grayscale and generates
 - [Installation](#installation)
 - [Usage Instructions](#usage-instructions)
 - [Features](#features)
-- [Video Demo](#video-demo)
+- [Demo](#video-demo)
 - [License](#license)
 - [Notes](#notes)
 
@@ -15,7 +15,13 @@ A Streamlit application that converts uploaded images to grayscale and generates
 
 ## About This Project
 
-GrayHist project provides a simple yet powerful tool for converting RGB images to grayscale and visualizing their pixel intensity distributions. Built using **Streamlit**, **Pillow**, and **Matplotlib**, it's ideal for developers looking to quickly add image processing capabilities to their workflows.
+This is a simple yet powerful **Streamlit application** that allows users to upload an image and:
+
+- Convert it into grayscale.
+- Display the grayscale version of the image.
+- Generate a histogram showing pixel intensity distribution.
+
+The app is built using **Python**, with dependencies on **Streamlit**, **Pillow (PIL)**, and **Matplotlib**.
 
 ---
 
@@ -56,15 +62,16 @@ GrayHist project provides a simple yet powerful tool for converting RGB images t
 
 ## Features
 
-| Feature                | Description                                                                  |
-| ---------------------- | ---------------------------------------------------------------------------- |
-| **Image Conversion**   | Converts RGB images to grayscale using Pillow's `ImageOps.grayscale` method. |
-| **Histogram Analysis** | Visualizes pixel intensity distribution using Matplotlib histograms.         |
-| **Interactive UI**     | Streamlit-based interface for easy upload and visualization.                 |
+| Feature | Description |
+|--------|-------------|
+| 📎 Image Upload | Supports `.jpg`, `.jpeg`, and `.png` formats |
+| 🧠 Grayscale Conversion | Uses Pillow's `ImageOps.grayscale()` for fast conversion |
+| 📊 Histogram Visualization | Displays a histogram of pixel intensities (0–255) |
+| 🖼️ Interactive UI | Simple, user-friendly interface with Streamlit |
 
 ---
 
-## Video Demo
+## Demo
 
 [main-app-video-sample.webm](https://github.com/user-attachments/assets/797bbb7c-7e2b-4954-82fc-1f564114c354)
 
